@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)]
+![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
 
 <h1 align="center">Hi 👋, I'm Leo Moises</h1>
 <h3 align="center">A passionate frontend developer</h3>
