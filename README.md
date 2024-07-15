@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **SP-App**
 
-- 🌱 I’m currently learning **Typescript and Python**
+- 🌱 I’m currently learning **Angular and Python**
 
-- 💬 Ask me about **JS, React and python**
+- 💬 Ask me about **JS, Typescript, React and Python**
 
 - 📫 How to reach me **lmmoyses.sh@gmail.com**
 
