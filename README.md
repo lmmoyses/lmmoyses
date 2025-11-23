@@ -4,5 +4,3 @@
 - 💬 Ask me about **JS, Typescript, React and Python**
 
 - 📫 How to reach me **lmmoyses.sh@gmail.com**
-
-- ⚡ Fun fact **I like anime**
