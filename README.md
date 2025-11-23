@@ -5,4 +5,4 @@
 
 - 📫 How to reach me **lmmoyses.sh@gmail.com**
 
-- ⚡ Fun fact **I like bread**
+- ⚡ Fun fact **I like anime**
